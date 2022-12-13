@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/sir-nik10/Server-With-Express-API-Test#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
